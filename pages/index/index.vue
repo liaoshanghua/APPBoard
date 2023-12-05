@@ -1,6 +1,6 @@
 <template>
 	<view class="content">
-		<web-view :webview-styles="webiewStyles" src="http://10.50.18.130/#/board?V=1">
+		<web-view :webview-styles="webiewStyles" src="http://112.15.190.218:9999/#/Screen10">
 		</web-view>
 	</view>
 </template>
